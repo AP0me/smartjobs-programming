@@ -1,18 +1,12 @@
 {
     "SQL": 392,
-    "JavaScript": 243,
+    "JavaScript": 260,
+    "C#": 117,
     "Java": 108,
-    "C#": 103,
-    "PHP": 93,
-    "Python": 81,
-    "TypeScript": 69,
-    ".NET": 49,
-    "Laravel": 40,
+    "PHP": 98,
+    "Python": 86,
     "Kotlin": 30,
     "Swift": 25,
     "Go": 16,
-    "Django": 13,
-    "Spring": 6,
-    "Flutter": 4,
-    "Dart": 1
+    "Dart": 4
 }

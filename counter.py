@@ -2,7 +2,7 @@ import json
 import os
 
 # --- CONFIGURATION ---
-INPUT_FILE = 'categorized_technologies.json'
+INPUT_FILE = 'categorized_technologies_merged.json'
 OUTPUT_FILE = 'technology_counts.json'
 
 def count_categories():
